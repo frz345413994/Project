@@ -1,0 +1,10 @@
+E:\C#\GitHub\Project\Demo\DapperDemo\obj\Debug\DapperDemo.csprojAssemblyReference.cache
+E:\C#\GitHub\Project\Demo\DapperDemo\obj\Debug\DapperDemo.csproj.CoreCompileInputs.cache
+E:\C#\GitHub\Project\Demo\DapperDemo\bin\Debug\DapperDemo.dll
+E:\C#\GitHub\Project\Demo\DapperDemo\bin\Debug\DapperDemo.pdb
+E:\C#\GitHub\Project\Demo\DapperDemo\bin\Debug\Dapper.dll
+E:\C#\GitHub\Project\Demo\DapperDemo\bin\Debug\Dapper.Extension.dll
+E:\C#\GitHub\Project\Demo\DapperDemo\bin\Debug\Dapper.xml
+E:\C#\GitHub\Project\Demo\DapperDemo\obj\Debug\DapperDemo.csproj.CopyComplete
+E:\C#\GitHub\Project\Demo\DapperDemo\obj\Debug\DapperDemo.dll
+E:\C#\GitHub\Project\Demo\DapperDemo\obj\Debug\DapperDemo.pdb

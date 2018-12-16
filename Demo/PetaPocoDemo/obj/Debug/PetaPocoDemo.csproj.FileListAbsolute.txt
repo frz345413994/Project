@@ -1,0 +1,7 @@
+E:\C#\GitHub\Project\Demo\PetaPocoDemo\bin\Debug\PetaPocoDemo.dll.config
+E:\C#\GitHub\Project\Demo\PetaPocoDemo\bin\Debug\PetaPocoDemo.dll
+E:\C#\GitHub\Project\Demo\PetaPocoDemo\bin\Debug\PetaPocoDemo.pdb
+E:\C#\GitHub\Project\Demo\PetaPocoDemo\obj\Debug\PetaPocoDemo.csproj.CoreCompileInputs.cache
+E:\C#\GitHub\Project\Demo\PetaPocoDemo\obj\Debug\PetaPocoDemo.dll
+E:\C#\GitHub\Project\Demo\PetaPocoDemo\obj\Debug\PetaPocoDemo.pdb
+E:\C#\GitHub\Project\Demo\PetaPocoDemo\obj\Debug\PetaPocoDemo.csprojAssemblyReference.cache

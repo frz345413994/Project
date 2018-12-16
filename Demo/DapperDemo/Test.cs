@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace DapperDemo
 {
-    public class Class1
+    public partial class Test
     {
+        public int Id { get; set; }
+
+        public string Name111 { get; set; }
+
+        public string Love { get; set; }
+
     }
 }

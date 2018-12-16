@@ -1,0 +1,15 @@
+E:\C#\GitHub\Project\Demo\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+E:\C#\GitHub\Project\Demo\ConsoleApp\bin\Debug\ConsoleApp.exe
+E:\C#\GitHub\Project\Demo\ConsoleApp\bin\Debug\ConsoleApp.pdb
+E:\C#\GitHub\Project\Demo\ConsoleApp\bin\Debug\PetaPocoDemo.dll
+E:\C#\GitHub\Project\Demo\ConsoleApp\bin\Debug\PetaPocoDemo.pdb
+E:\C#\GitHub\Project\Demo\ConsoleApp\bin\Debug\PetaPocoDemo.dll.config
+E:\C#\GitHub\Project\Demo\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+E:\C#\GitHub\Project\Demo\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+E:\C#\GitHub\Project\Demo\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+E:\C#\GitHub\Project\Demo\ConsoleApp\obj\Debug\ConsoleApp.exe
+E:\C#\GitHub\Project\Demo\ConsoleApp\obj\Debug\ConsoleApp.pdb
+E:\C#\GitHub\Project\Demo\ConsoleApp\bin\Debug\DapperDemo.dll
+E:\C#\GitHub\Project\Demo\ConsoleApp\bin\Debug\Dapper.dll
+E:\C#\GitHub\Project\Demo\ConsoleApp\bin\Debug\DapperDemo.pdb
+E:\C#\GitHub\Project\Demo\ConsoleApp\bin\Debug\Dapper.xml

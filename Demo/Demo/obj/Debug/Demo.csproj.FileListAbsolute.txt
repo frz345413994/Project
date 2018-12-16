@@ -1,0 +1,6 @@
+E:\C#\GitHub\Project\Demo\Demo\bin\Debug\Demo.dll
+E:\C#\GitHub\Project\Demo\Demo\bin\Debug\Demo.pdb
+E:\C#\GitHub\Project\Demo\Demo\obj\Debug\Demo.csprojAssemblyReference.cache
+E:\C#\GitHub\Project\Demo\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+E:\C#\GitHub\Project\Demo\Demo\obj\Debug\Demo.dll
+E:\C#\GitHub\Project\Demo\Demo\obj\Debug\Demo.pdb
